@@ -20,12 +20,14 @@
     "balanced-match": {
       "version": "0.4.2",
       "from": "balanced-match@>=0.4.1 <0.5.0",
-      "resolved": "./node_shrinkwrap/balanced-match-0.4.2.tar"
+      "resolved": "./node_shrinkwrap/balanced-match-0.4.2.tar",
+      "optional": true
     },
     "brace-expansion": {
       "version": "1.1.6",
       "from": "brace-expansion@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/brace-expansion-1.1.6.tar"
+      "resolved": "./node_shrinkwrap/brace-expansion-1.1.6.tar",
+      "optional": true
     },
     "buffer-shims": {
       "version": "1.0.0",
@@ -40,14 +42,16 @@
         "dtrace-provider": {
           "version": "0.7.1",
           "from": "dtrace-provider@>=0.7.0 <0.8.0",
-          "resolved": "./node_shrinkwrap/dtrace-provider-0.7.1.tar"
+          "resolved": "./node_shrinkwrap/dtrace-provider-0.7.1.tar",
+          "optional": true
         }
       }
     },
     "concat-map": {
       "version": "0.0.1",
       "from": "concat-map@0.0.1",
-      "resolved": "./node_shrinkwrap/concat-map-0.0.1.tar"
+      "resolved": "./node_shrinkwrap/concat-map-0.0.1.tar",
+      "optional": true
     },
     "core-util-is": {
       "version": "1.0.2",
@@ -87,7 +91,8 @@
     "dtrace-provider": {
       "version": "0.6.0",
       "from": "dtrace-provider@>=0.6.0 <0.7.0",
-      "resolved": "./node_shrinkwrap/dtrace-provider-0.6.0.tar"
+      "resolved": "./node_shrinkwrap/dtrace-provider-0.6.0.tar",
+      "optional": true
     },
     "escape-regexp-component": {
       "version": "1.0.2",
@@ -107,7 +112,8 @@
     "glob": {
       "version": "6.0.4",
       "from": "glob@>=6.0.1 <7.0.0",
-      "resolved": "./node_shrinkwrap/glob-6.0.4.tar"
+      "resolved": "./node_shrinkwrap/glob-6.0.4.tar",
+      "optional": true
     },
     "handle-thing": {
       "version": "1.2.5",
@@ -132,7 +138,8 @@
     "inflight": {
       "version": "1.0.6",
       "from": "inflight@>=1.0.4 <2.0.0",
-      "resolved": "./node_shrinkwrap/inflight-1.0.6.tar"
+      "resolved": "./node_shrinkwrap/inflight-1.0.6.tar",
+      "optional": true
     },
     "inherits": {
       "version": "2.0.3",
@@ -167,22 +174,26 @@
     "minimatch": {
       "version": "3.0.3",
       "from": "minimatch@>=2.0.0 <3.0.0||>=3.0.0 <4.0.0",
-      "resolved": "./node_shrinkwrap/minimatch-3.0.3.tar"
+      "resolved": "./node_shrinkwrap/minimatch-3.0.3.tar",
+      "optional": true
     },
     "minimist": {
       "version": "0.0.8",
       "from": "minimist@0.0.8",
-      "resolved": "./node_shrinkwrap/minimist-0.0.8.tar"
+      "resolved": "./node_shrinkwrap/minimist-0.0.8.tar",
+      "optional": true
     },
     "mkdirp": {
       "version": "0.5.1",
       "from": "mkdirp@>=0.5.1 <0.6.0",
-      "resolved": "./node_shrinkwrap/mkdirp-0.5.1.tar"
+      "resolved": "./node_shrinkwrap/mkdirp-0.5.1.tar",
+      "optional": true
     },
     "moment": {
       "version": "2.15.2",
       "from": "moment@>=2.10.6 <3.0.0",
-      "resolved": "./node_shrinkwrap/moment-2.15.2.tar"
+      "resolved": "./node_shrinkwrap/moment-2.15.2.tar",
+      "optional": true
     },
     "ms": {
       "version": "0.7.2",
@@ -192,17 +203,20 @@
     "mv": {
       "version": "2.1.1",
       "from": "mv@>=2.0.0 <3.0.0",
-      "resolved": "./node_shrinkwrap/mv-2.1.1.tar"
+      "resolved": "./node_shrinkwrap/mv-2.1.1.tar",
+      "optional": true
     },
     "nan": {
       "version": "2.4.0",
       "from": "nan@>=2.3.3 <3.0.0",
-      "resolved": "./node_shrinkwrap/nan-2.4.0.tar"
+      "resolved": "./node_shrinkwrap/nan-2.4.0.tar",
+      "optional": true
     },
     "ncp": {
       "version": "2.0.0",
       "from": "ncp@>=2.0.0 <2.1.0",
-      "resolved": "./node_shrinkwrap/ncp-2.0.0.tar"
+      "resolved": "./node_shrinkwrap/ncp-2.0.0.tar",
+      "optional": true
     },
     "negotiator": {
       "version": "0.6.1",
@@ -227,7 +241,8 @@
     "path-is-absolute": {
       "version": "1.0.1",
       "from": "path-is-absolute@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/path-is-absolute-1.0.1.tar"
+      "resolved": "./node_shrinkwrap/path-is-absolute-1.0.1.tar",
+      "optional": true
     },
     "precond": {
       "version": "0.2.3",
@@ -262,12 +277,14 @@
     "rimraf": {
       "version": "2.4.5",
       "from": "rimraf@>=2.4.0 <2.5.0",
-      "resolved": "./node_shrinkwrap/rimraf-2.4.5.tar"
+      "resolved": "./node_shrinkwrap/rimraf-2.4.5.tar",
+      "optional": true
     },
     "safe-json-stringify": {
       "version": "1.0.3",
       "from": "safe-json-stringify@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/safe-json-stringify-1.0.3.tar"
+      "resolved": "./node_shrinkwrap/safe-json-stringify-1.0.3.tar",
+      "optional": true
     },
     "select-hose": {
       "version": "2.0.0",
