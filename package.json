@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/samorgill/peno_data_api/issues"
   },
-  "homepage": "https://github.com/samorgill/peno_data_api#readme"
+  "homepage": "https://github.com/samorgill/peno_data_api#readme",
+  "dependencies": {
+    "restify": "^4.2.0"
+  }
 }
